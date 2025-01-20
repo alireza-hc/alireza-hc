@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Website design
 - 💞️ I’m looking to collaborate on I am in the field of web design.
 - 📫 How to reach me instagram
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  
 
 <!---
 alireza-hc/alireza-hc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
